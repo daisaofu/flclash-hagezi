@@ -1,0 +1,9 @@
+GPL-3.0 distribution notice
+
+The generated files in rulesets/ are adapted from the HaGeZi DNS-Blocklists:
+https://github.com/hagezi/dns-blocklists
+
+They are distributed under the GNU General Public License v3.0. The corresponding
+license text must accompany redistribution. This repository includes the upstream
+license at LICENSES/GPL-3.0.txt. Some upstream inputs may carry separate terms;
+see the HaGeZi project disclaimer and sources documentation.
